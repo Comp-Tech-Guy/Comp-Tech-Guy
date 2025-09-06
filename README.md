@@ -46,5 +46,5 @@
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="mailto:allthought123@gmail.com" href="#"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
-  <a href="https://www.discord.com/856111985657511976" href="#" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+  <a href="https://discordapp.com/users/856111985657511976" href="#" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
 </p>
