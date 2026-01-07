@@ -27,7 +27,7 @@
 <h3 align="center">⚒️ Languages & Tools</h3>
 <p align="center">
   <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,java,django,mysql,postgres,mongodb,docker,git,linux,electron,figma,photoshop,blender,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,java,django,mysql,postgres,mongodb,docker,git,linux,electron,figma,photoshop,blender,postman,tauri" />
   </a>
 </p>
 
