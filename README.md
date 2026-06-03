@@ -33,16 +33,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Comp-Tech-Guy&theme=github-dark-blue&background=EB545400" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=allthought123@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
